@@ -38,5 +38,5 @@ with lighting, shadows, reflections, refraction, and texture mapping.
 
 2. Insert scene details into file.txt
 
-3. Run raytracer.c, and convert file.ppm into an image
+3. Run raytracer.c, and convert file.ppm into a JPG or a PNG
 
