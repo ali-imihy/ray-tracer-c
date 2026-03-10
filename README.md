@@ -5,12 +5,18 @@ with lighting, shadows, reflections, refraction, and texture mapping.
 
 # Features
 
-• Sphere and triangle intersection /
-• Blinn-Phong illumination model /
-• Hard shadows using shadow rays /
-• Reflection and refraction /
-• Texture mapping /
-• Depth cueing /
+• Sphere and triangle intersection 
+
+• Blinn-Phong illumination model 
+
+• Hard shadows using shadow rays 
+
+• Reflection and refraction 
+
+• Texture mapping 
+
+• Depth cueing
+
 • Scene parsing from custom input files
 
 Example Output /
