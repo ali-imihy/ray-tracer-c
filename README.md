@@ -26,4 +26,9 @@ with lighting, shadows, reflections, refraction, and texture mapping.
 
 # Technologies
 
-C, linear algebra, computer graphics
+• C
+
+• Computer graphics
+
+• Linear algebra
+
