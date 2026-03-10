@@ -1,7 +1,7 @@
 CC = gcc
-TARGET = raytracer1d
+TARGET = raytracer
 
-SRC = raytracer1d.c
+SRC = raytracer.c
 
 all: $(TARGET)
 
