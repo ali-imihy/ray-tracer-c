@@ -19,10 +19,11 @@ with lighting, shadows, reflections, refraction, and texture mapping.
 
 • Scene parsing from custom input files
 
-Example Output /
+# Example Output
+
 <img width="550" height="550" alt="shadows" src="https://github.com/user-attachments/assets/478c0685-dea6-4a2a-8e2c-1f5d64eb5df6" />
 
 
-Technologies
+# Technologies
 
 C, linear algebra, computer graphics
