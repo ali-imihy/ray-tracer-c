@@ -32,3 +32,11 @@ with lighting, shadows, reflections, refraction, and texture mapping.
 
 • Linear algebra
 
+# Instructions
+
+1. Compile with make
+
+2. Insert scene details into file.txt
+
+3. Run raytracer.c, and convert file.ppm into an image
+
